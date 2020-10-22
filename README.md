@@ -22,4 +22,4 @@ If you don't know how to make the mods, just take the compiled file and put it i
 | Extra point on spawn  | When a player enters after the game has already started, 500 points will be added for every 5 rounds, i.e. if the player enters raund 20 he will be added (20/5) * 500 points, in this example he will be given 2'000 extra points. |
 | Gungame Style  | Each tot point the weapon in your hand will change with the next one in the list.  You can also do this by setting the random mode |
 
-<img src="https://img.favpng.com/21/10/0/royalty-free-png-favpng-BKXV2ymWCYAjtj7z037zPYDwV.jpg" href="" alt="Download" width="100" high = "150"/>
+<img src="https://toppng.com/uploads/preview/coming-soon-115233721348zjfnigegk.png" href="" alt="Download" width="100" high = "150"/>
