@@ -8,6 +8,7 @@ If you don't know how to make the mods, just take the compiled file and put it i
 | Feature | Description | 
 | :------------ |:-------------:| 
 | Restart Fix  | When the game ends I will automatically restart without having to go out and come back in. |
+| EMP Disabled  | EMP grenades have been removed  |
 | Unlimited Perks  | There no perks limit |
 | Extra point on spawn  | When a player enters after the game has already started, 500 points will be added for every 5 rounds, i.e. if the player enters raund 20 he will be added (20/5) * 500 points, in this example he will be given 2'000 extra points. |
 
