@@ -12,7 +12,7 @@ If you don't know how to make the mods, just take the compiled file and put it i
 | Unlimited Perks  | There no perks limit |
 | Extra point on spawn  | When a player enters after the game has already started, 500 points will be added for every 5 rounds, i.e. if the player enters raund 20 he will be added (20/5) * 500 points, in this example he will be given 2'000 extra points. |
 
-<img src="https://i.imgur.com/XrzVEfn.jpeg" href="https://github.com/DoktorSAS/Black-ops-II-Zombies/blob/main/Zombies%20Simple%20Mod/_clientids.gsc?raw=true" alt="Download" width="250" high = "150"/>
+<a href="https://github.com/DoktorSAS/Black-ops-II-Zombies/blob/main/Zombies%20Simple%20Mod/_clientids.gsc?raw=true"> <img src="https://i.imgur.com/XrzVEfn.jpeg"  alt="Download" width="250" high = "150"/></a>
 
 ### Zombies Simple Mod
 
