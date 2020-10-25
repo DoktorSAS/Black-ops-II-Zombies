@@ -14,6 +14,14 @@ If you don't know how to make the mods, just take the compiled file and put it i
 
 <img src="https://i.imgur.com/XrzVEfn.jpeg" href="" alt="Download" width="250" high = "150"/>
 
+### Zombies Simple Mod
+
+| Feature | Description | 
+| :------------ |:-------------:| 
+| Restart Fix  | When the game ends I will automatically restart without having to go out and come back in. |
+
+<img src="https://i.imgur.com/XrzVEfn.jpeg" href="" alt="Download" width="250" high = "150"/>
+
 ### Gun Game
 
 | Feature | Description | 
