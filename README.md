@@ -20,7 +20,7 @@ If you don't know how to make the mods, just take the compiled file and put it i
 | :------------ |:-------------:| 
 | Restart Fix  | When the game ends I will automatically restart without having to go out and come back in. |
 
-<a href=""https://github.com/DoktorSAS/Black-ops-II-Zombies/blob/main/Fix/_clientids.gsc?raw=true"> <img src="https://i.imgur.com/XrzVEfn.jpeg"  alt="Download" width="250" high = "150"/></a>
+<a href="https://github.com/DoktorSAS/Black-ops-II-Zombies/blob/main/Fix/_clientids.gsc?raw=true"> <img src="https://i.imgur.com/XrzVEfn.jpeg" alt="Download" width="250" high = "150"/></a>
 
 ### Gun Game
 
@@ -30,5 +30,5 @@ If you don't know how to make the mods, just take the compiled file and put it i
 | Gungame Style  | Each tot point the weapon in your hand will change with the next one in the list.  You can also do this by setting the random mode |
 | Custom Gun Rotation | Through the dvars it is possible to modify the rotation of the weapons |
 
-<a href=""https://github.com/DoktorSAS/Black-ops-II-Zombies/blob/main/gungame/gsc/_clientids.gsc?raw=true"> <img src="https://i.imgur.com/XrzVEfn.jpeg"  alt="Download" width="250" high = "150"/></a>
+<a href="https://github.com/DoktorSAS/Black-ops-II-Zombies/blob/main/gungame/gsc/_clientids.gsc?raw=true"> <img src="https://i.imgur.com/XrzVEfn.jpeg"  alt="Download" width="250" high = "150"/></a>
 
