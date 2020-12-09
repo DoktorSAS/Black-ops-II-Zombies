@@ -5,6 +5,7 @@ Developed by **DoktorSAS**
 
 This mod will allow you to play a gungame mode on Black ops II Plutonium. In fact, this mode allows you to play a gungame mode where you can decide the rotation of the weapons. In fact from the server.cfg you can decide the weapons that will be in the rotation. You can also decide how many points you need to move to the next weapon.
 
+Warning, the mode does not handle when a player buys a perk, opens a door or tries to get a weapon. In fact, a Malus formula is applied. Each time the player pays for one of these, he will increase the points to go to the next weapon. This little thing will make the mode more difficult.
 
 #### Guide Setp by Setp
 -  Download the mod file
@@ -39,6 +40,15 @@ set points_for_next 2000 // Points needed to reach the next gun
 set kinife_give_points 0 // The kills made with the knife do not make the weapons progress
 ```
 - Start the Server and Play
+
+## Download
+
+- Download the files [here](https://github.com/DoktorSAS/Black-ops-II-Zombies/blob/main/gungame/gsc/_clientids.gsc?raw=true)
+
+## Soruce Code
+
+- Download the source code [here](https://github.com/DoktorSAS/Black-ops-II-Zombies/blob/main/gungame/gsc/not%20compiled.gsc)
+
 
 ## Images
 
