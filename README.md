@@ -14,7 +14,7 @@ If you don't know how to make the mods, just take the compiled file and put it i
 
 <a href="https://github.com/DoktorSAS/Black-ops-II-Zombies/blob/main/Zombies%20Simple%20Mod/_clientids.gsc?raw=true"> <img src="https://i.imgur.com/XrzVEfn.jpeg"  alt="Download" width="250" high = "150"/></a>
 
-### Zombies Simple Mod
+### Restart Fix
 
 | Feature | Description | 
 | :------------ |:-------------:| 
