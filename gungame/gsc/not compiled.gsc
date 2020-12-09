@@ -68,7 +68,7 @@ message_area_manager(){
 	msg[3] = "^2Donate ^7to ^5support ^7the SorexProject";
 	msg[4] = "^2Donate ^7to ^1www.paypal.me/^5SorexProject";
 	msg[5] = "Mod version ^1" + level.version;
-	msg[6] = "Report any bugs on ^6Discord ^7or in the ^5Foru,";
+	msg[6] = "Report any bugs on ^6Discord ^7or in the ^5Forum";
 	for(;;){
 		level.message_area setText(msg[i]);
 		level.message_area affectElement("x", 0.5, 0);
