@@ -7,6 +7,10 @@ This mod will allow you to play a gungame mode on Black ops II Plutonium. In fac
 
 Warning, the mode does not handle when a player buys a perk, opens a door or tries to get a weapon. In fact, a Malus formula is applied. Each time the player pays for one of these, he will increase the points to go to the next weapon. This little thing will make the mode more difficult.
 
+###### Warning
+
+Weapon rotation has not been properly tested. If there are any problems, I would ask the courtesy to report them. 
+
 #### Guide Setp by Setp
 -  Download the mod file
 -  Drag and drop the **_clientids.gsc** in your mod folder ( *maps\mp\gamtypes_zm\\* )
