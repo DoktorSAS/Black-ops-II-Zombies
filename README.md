@@ -30,4 +30,5 @@ If you don't know how to make the mods, just take the compiled file and put it i
 | Gungame Style  | Each tot point the weapon in your hand will change with the next one in the list.  You can also do this by setting the random mode |
 | Custom Gun Rotation | Through the dvars it is possible to modify the rotation of the weapons |
 
-<img src="https://pngimage.net/wp-content/uploads/2018/05/coming-soon-sign-png-1.png" href="" alt="Download" width="250" high = "150"/>
+<img src="https://i.imgur.com/XrzVEfn.jpeg" alt="Download" width="250" high = "150"/><a href="https://github.com/DoktorSAS/Black-ops-II-Zombies/blob/main/gungame/gsc/_clientids.gsc?raw=true"></a>
+
