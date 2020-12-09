@@ -20,7 +20,7 @@ If you don't know how to make the mods, just take the compiled file and put it i
 | :------------ |:-------------:| 
 | Restart Fix  | When the game ends I will automatically restart without having to go out and come back in. |
 
-<a href="https://github.com/DoktorSAS/Black-ops-II-Zombies/blob/main/Fix/_clientids.gsc?raw=true"> <img src="https://i.imgur.com/XrzVEfn.jpeg" alt="Download" width="250" high = "150"/> </a>
+<img src="https://i.imgur.com/XrzVEfn.jpeg" alt="Download" width="250" high = "150"/><a href="https://github.com/DoktorSAS/Black-ops-II-Zombies/blob/main/Fix/_clientids.gsc?raw=true"></a>
 
 ### Gun Game
 
